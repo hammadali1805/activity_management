@@ -63,10 +63,6 @@ The KVS Activity Management Software is a Python-based desktop application devel
 
 - [Hammad Ali](https://github.com/hammadali1805) - Project Lead and Developer
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Special thanks to the Kendriya Vidyalaya Sangathan for the inspiration behind this project.
