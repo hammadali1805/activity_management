@@ -18,7 +18,7 @@ The KVS Activity Management Software is a Python-based desktop application devel
 
 ## Installation
 
-1. Clone or download the project from the GitHub repository: [GitHub Repository Link](https://github.com/yourusername/kvs-activity-management).
+1. Clone or download the project from the GitHub repository: [GitHub Repository Link](https://github.com/hammadali1805/activity_management).
 
 2. Install the required Python packages:
    ```
@@ -61,7 +61,7 @@ The KVS Activity Management Software is a Python-based desktop application devel
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername) - Project Lead and Developer
+- [Hammad Ali](https://github.com/hammadali1805) - Project Lead and Developer
 
 ## License
 
@@ -73,6 +73,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have questions about the software, please feel free to [create an issue](https://github.com/yourusername/kvs-activity-management/issues) on the GitHub repository, and we will be happy to assist you.
+If you encounter any issues or have questions about the software, please feel free to [create an issue](https://github.com/hammadali1805/activity_management/issues) on the GitHub repository, and we will be happy to assist you.
 
 Happy managing your school activities with the KVS Activity Management Software!
